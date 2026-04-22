@@ -1,8 +1,6 @@
 # 🚀 Edu-Nexora
 
-<p align="center">
-  <img src="LogoEduNexora" width="200"/>
-</p>
+<img src="https://github.com/alexanderbena01/EduNexora/raw/main/LogoEduNexora.png" width="200"/>
 
 ## 📌 Sobre nosotros
 
