@@ -1,7 +1,5 @@
 # 🚀 Edu-Nexora
 
-<img src="https://github.com/alexanderbena01/EduNexora/raw/main/LogoEduNexora.png" width="200"/>
-
 ## 📌 Sobre nosotros
 
 EduNexora es una organización enfocada en el desarrollo de soluciones tecnológicas que conectan la educación con la inteligencia artificial, mejorando la organización y el rendimiento académico de los estudiantes.
