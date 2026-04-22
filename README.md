@@ -1,9 +1,6 @@
 # 🚀 Edu-Nexora
 
-<p align="center">
-  <img src="C:\Users\HP RYZEN 3\OneDrive\Desktop\IS32026A\EduNexora\LogoEduNexora.png" alt="EduNexora Logo" width="200"/>
-</p>
-
+C:\Users\HP RYZEN 3\OneDrive\Desktop\IS32026A\EduNexora
 ## 📌 Sobre nosotros
 
 EduNexora es una organización enfocada en el desarrollo de soluciones tecnológicas que conectan la educación con la inteligencia artificial, mejorando la organización y el rendimiento académico de los estudiantes.
