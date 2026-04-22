@@ -1,14 +1,5 @@
 # 🚀 Edu-Nexora
 
-<p align="center">
-  <img src="assets/LogoEduNexora.png" width="180"/>
-</p>
-
-<h1 align="center">EduNexora</h1>
-
-<p align="center">
-  Conectamos educación con inteligencia
-</p>
 ## 📌 Sobre nosotros
 
 EduNexora es una organización enfocada en el desarrollo de soluciones tecnológicas que conectan la educación con la inteligencia artificial, mejorando la organización y el rendimiento académico de los estudiantes.
